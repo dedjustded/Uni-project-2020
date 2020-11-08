@@ -1,0 +1,25 @@
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\bin\Debug\ApplicantTracking2.exe.config
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\bin\Debug\ApplicantTracking2.exe
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\bin\Debug\ApplicantTracking2.pdb
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.csprojAssemblyReference.cache
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.Properties.Resources.resources
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.csproj.GenerateResource.cache
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.csproj.CoreCompileInputs.cache
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.exe
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.pdb
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.homeScreen.resources
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.Login.resources
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_search.resources
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_newPosition.resources
+C:\Users\lkrastev2\source\repos\ApplicantTracking2\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_edit.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.csprojAssemblyReference.cache
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.homeScreen.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_edit.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_newPosition.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.positions_search.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.Login.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.Properties.Resources.resources
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.csproj.GenerateResource.cache
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.csproj.CoreCompileInputs.cache
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.exe
+D:\uni projects\applicant tracking\ApplicantTracking2\obj\Debug\ApplicantTracking2.pdb
