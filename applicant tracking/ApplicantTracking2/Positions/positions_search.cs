@@ -144,7 +144,7 @@ namespace ApplicantTracking2
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             ID = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
-            txtSearch.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
+            //*/txtSearch.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();*/
             if (ID != 0)
             {
                 
